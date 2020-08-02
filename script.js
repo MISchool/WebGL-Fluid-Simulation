@@ -23,7 +23,7 @@ SOFTWARE.
 */
 
 'use strict';
-
+/*
 // Promo code
 
 var promoPopup = document.getElementsByClassName('promo')[0];
@@ -50,7 +50,7 @@ googleLink.addEventListener('click', function (e) {
     ga('send', 'event', 'link promo', 'app');
     window.open('https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree');
 });
-
+*/
 // Simulation code
 
 var canvas = document.getElementsByTagName('canvas')[0];
